@@ -8,14 +8,20 @@
 ---
 
 <h2 align="justify">Descripción del caso de estudio</h2>
-El objetivo de Yuzin Club Cultural es promover las actividades culturales en las ciudades de Sevilla y Granada. 
+El objetivo de Yuzin Club Cultural es promover la actividad cultural en las ciudades de Sevilla y Granada. La web ofrece distintas opciones entre las que podemos encontrar la de anunciar tu propio evento, consultar la agenda cultural, descargar una copia de la revista (fecha a elegir), una búsqueda personalizada de actividades, reserva de tickets ...
 
 A continuación se prodecerá a realizar un proceso de rediseño con el objetivo de mejorar la web del caso de estudio. 
 
-# Proceso de Diseño 
+# Proceso de Rediseño 
 
+## Paso 1. Análisis
 
+Analizaremos el sitio web para sacar sus puntos fuertes y debilidades con el objetivo de saber lo que tenemos que mejorar en el rediseño.
 
-## Paso 1. UX Desk Research & Analisis 
+### 1.a Competitive Analysis
 
- 
+Comparo Yuzin Club Cultural con otros sitios web de la misma temática.
+
+Turgranada: Ofrece una agenda de actividades culturales en toda la provincia de Granada entre otras funcionalidades (planear tu viaje, búsqueda de destinos ...)
+
+Sevillaguia: Se centra en actividades culturales en la ciudad de Sevilla y puedes acceder a un gran número de ellas, publicitar la tuya propia, el servicio de venta de tickets está deshabilitado temporalmente ...
