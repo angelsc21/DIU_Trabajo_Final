@@ -33,3 +33,7 @@ Puedes ver el análisis competitivo <a href="https://github.com/angelsc21/DIU_Tr
 Utilizo el siguiente perfil para simular una posible experiencia de usuario y recabar más información sobre las dificultades, emociones, frustraciones ... que experimenta.
 
 ![persona](persona.png)
+
+### 1.b Journey Map
+
+
