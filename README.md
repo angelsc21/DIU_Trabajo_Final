@@ -36,4 +36,4 @@ Utilizo el siguiente perfil para simular una posible experiencia de usuario y re
 
 ### 1.b Journey Map
 
-![persona](persona.png)
+![persona](viaje.png)
