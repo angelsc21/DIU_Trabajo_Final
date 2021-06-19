@@ -34,7 +34,7 @@ Utilizo el siguiente perfil para simular una posible experiencia de usuario y re
 
 ![persona](persona.png)
 
-### 1.b Journey Map
+### 1.c Journey Map
 
 Hemos simulado que esta persona quiere reservar un tour guiado por un sitio emblemático en Granada.
 
@@ -42,7 +42,11 @@ Hemos simulado que esta persona quiere reservar un tour guiado por un sitio embl
 
 Lo útil que hemos sacado de este viaje sería que no puedes elegir la fecha con exactitud y que la suscripción es muy tentadora (suele funcionar para aquellos usuarios que visiten la web frecuentemente). En conclusión, podríamos mejorar la interfaz con la que tenemos el primer contacto para que la búsqueda sea algo más personalizable y de una mejor impresión.
 
-### 1.b Usability Review
+### 1.d Usability Review
 
-Puedes ver los resultados <a href="https://github.com/angelsc21/DIU_Trabajo_Final/blob/main/Usability-review.pdf">aquí</a>
+Puedes ver los resultados <a href="https://github.com/angelsc21/DIU_Trabajo_Final/blob/main/Usability-review.pdf">aquí</a>.
+
+<strong>Valoración final: 61</strong>
+
+<p align="justify">Según los parámetros del test los usuarios deben poder usar este sitio o sistema con relativa facilidad y deben ser capaces de completar la gran mayoría de las tareas importantes. Su principal desventajas se encuentran en la organización de la página principal, tienes que pararte a ver el menú para descubrir qué ofrece realmente la página. Otras opciones que se podrían añadir serían la de valorar una actividad, ofrecer un mapa sobre el sitio del evento, mejorar la ayuda cuándo hay errores... </p>
 
