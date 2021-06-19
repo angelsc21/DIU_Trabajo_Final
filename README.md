@@ -20,7 +20,7 @@ Analizaremos el sitio web para sacar sus puntos fuertes y debilidades con el obj
 
 ### 1.a Competitive Analysis
 
-Comparo Yuzin Club Cultural con otros sitios web de la misma temática.
+Comparo Yuzin Club Cultural con otros sitios web de la misma temática para ver qué tienen sus competidores de más y de menos.
 
 Turgranada: Ofrece una agenda de actividades culturales en toda la provincia de Granada entre otras funcionalidades (planear tu viaje, búsqueda de destinos ...)
 
