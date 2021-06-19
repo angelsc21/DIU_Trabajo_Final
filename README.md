@@ -20,12 +20,16 @@ Analizaremos el sitio web para sacar sus puntos fuertes y debilidades con el obj
 
 ### 1.a Competitive Analysis
 
-Comparo Yuzin Club Cultural con otros sitios web de la misma temática para ver qué tienen sus competidores de más y de menos.
+Comparo Yuzin Club Cultural con otros sitios web de la misma temática para ver qué tienen sus competidores de más y de menos. Los sitios con los que he comparado el sitio web son:
 
 Turgranada: Ofrece una agenda de actividades culturales en toda la provincia de Granada entre otras funcionalidades (planear tu viaje, búsqueda de destinos ...)
 
 Sevillaguia: Se centra en actividades culturales en la ciudad de Sevilla y puedes acceder a un gran número de ellas, publicitar la tuya propia, el servicio de venta de tickets está deshabilitado temporalmente ...
 
 Puedes ver el análisis competitivo <a href="https://github.com/angelsc21/DIU_Trabajo_Final/blob/main/CompetitiveAnalisis.pdf">aquí</a>.
+
+### 1.b Competitive Analysis
+
+Utilizo el siguiente perfil para simular una posible experiencia de usuario y recabar más información sobre las dificultades, emociones, frustraciones ... que experimenta.
 
 ![persona](persona.png)
