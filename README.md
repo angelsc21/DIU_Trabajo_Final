@@ -28,7 +28,7 @@ Sevillaguia: Se centra en actividades culturales en la ciudad de Sevilla y puede
 
 Puedes ver el análisis competitivo <a href="https://github.com/angelsc21/DIU_Trabajo_Final/blob/main/CompetitiveAnalisis.pdf">aquí</a>.
 
-### 1.b Competitive Analysis
+### 1.b Persona
 
 Utilizo el siguiente perfil para simular una posible experiencia de usuario y recabar más información sobre las dificultades, emociones, frustraciones ... que experimenta.
 
@@ -36,4 +36,10 @@ Utilizo el siguiente perfil para simular una posible experiencia de usuario y re
 
 ### 1.b Journey Map
 
+Hemos simulado que esta persona quiere reservar un tour guiado por un sitio emblemático en Granada.
+
 ![persona](viaje.png)
+
+Lo útil que hemos sacado de este viaje sería que no puedes elegir la fecha con exactitud y que la suscripción es muy tentadora (suele funcionar para aquellos usuarios que visiten la web frecuentemente). En conclusión, podríamos mejorar la interfaz con la que tenemos el primer contacto para que la búsqueda sea algo más personalizable y de una mejor impresión.
+
+
