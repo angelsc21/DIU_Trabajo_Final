@@ -78,4 +78,4 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 
 ### 2.b Sitemap + Labelling
 
-![persona](Sitemap.png)
+![persona](sitemap.png)
