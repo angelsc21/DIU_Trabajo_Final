@@ -1,4 +1,4 @@
-<h1 align="center">PARTE II Web Yuzin</h1>
+<h1 align="center">PARTE II <a href="https://yuzin.com/">Web Yuzin</a></h1>
 
 <p align="justify"><strong>Autor:</strong> Ángel Solano Corral</p>
 <p align="justify"><strong>Caso de estudio:</strong> Yuzin Club Cultural</p>
