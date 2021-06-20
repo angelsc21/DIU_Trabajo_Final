@@ -102,3 +102,8 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 | Preguntas frecuentes | Listado de preguntas respondidas que los usuarios suelen hacer | 
 | Asistente Online | Asistente hecho con intelegencia artificial que interactúa contigo para ayudarte a resolver tus problemas  | 
 | Acceder | Iniciar sesión en la página con tus datos  | 
+
+### 2.c Wireframes
+
+A continuación muestro una serie de wireframes en los que se pueden ver algunas zonas del rediseño de la página.
+
