@@ -80,7 +80,7 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 
 * Sitemap 
 
-![persona](Sitemap.png)
+![sitemap](sitemap.png)
 
 * Labelling 
 
