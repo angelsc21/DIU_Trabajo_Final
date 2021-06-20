@@ -72,3 +72,9 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 | | Poner a la vista las principales funcionalidades que ofrece la web en la página principal. |
 | | Cuándo ocurra un error especificar exactamente cuál ha sido. |
 
+### 2.a Propuesta de valor
+
+<p align="justify">La propuesta de valor presenta un proyecto llamado Granaevent cuyas principales características serán un rediseño completo de la página principal (plasmará el contenido principal que ofrece el sitio web, menú centrado, etc), adición de un mapa sobre el sitio del evento, búsqueda con mayor número de filtros, ayuda más precisa junto a un asistente online, valoración de eventos y una descripción más amplia de los mismos.</p>
+
+### 2.b Sitemap + Labelling
+
