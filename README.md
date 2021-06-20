@@ -121,7 +121,7 @@ A continuación muestro una serie de wireframes en los que se pueden ver algunas
 
 * Evento
 
-![Evento](evento.jpg)
+![Evento](Evento.jpg)
 
 ## Paso 3. Guidelines y Patrones de Diseño
 
