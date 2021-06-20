@@ -28,6 +28,8 @@ Comparo Yuzin Club Cultural con otros sitios web de la misma temática para ver 
 
 Puedes ver el análisis competitivo <a href="https://github.com/angelsc21/DIU_Trabajo_Final/blob/main/CompetitiveAnalisis.pdf">aquí</a>.
 
+Lo más importante es que hemos podido conseguir información importante sobre aspectos que faltan en la web cómo serían una búsqueda más personalizada, mapa del evento, descripción del evento más completa, cambio de idioma, conversión de moneda y la ventaja que supondría tener una app móvil sobre nuestros competidores.
+
 ### 1.b Persona
 
 Utilizo el siguiente perfil para simular una posible experiencia de usuario y recabar más información sobre las dificultades, emociones, frustraciones ... que experimenta.
@@ -82,6 +84,8 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 
 ![sitemap](sitemap.png)
 
+En el sitemap podemos ver que nos ha quedado una estructura bastante sencilla en la que puedes acceder prácticamente a todas las funcionalidades de la página con un solo clic.
+
 * Labelling 
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
@@ -130,3 +134,4 @@ A continuación muestro una serie de wireframes en los que se pueden ver algunas
 Otro punto a favor para la empresa sería tener una aplicación móvil además del sitio web para dotar de una mayor versatilidad a los recursos ofrecidos.
 
 ## Conclusiones
+<p align="justify">El rediseño que se hizo en su momento de Yuzin Club Cultural en muchos aspectos dejaba mucho que desear. Creo que no plasmaron lo que querían ofrecer en la página principal y eso hizo que la gente no entendiera del todo el objetivo del sitio web. Con esta nueva propuesta de Granevent, se busca ofrecer al cliente  aquello que más importante que ofrece la empresa desde el principio. Se han completado muchos aspectos cómo la búsqueda, descripción del evento ... que proporcionarán al usuario una mejor experiencia y que probablemente le hagan volver a visitar la página. Granevent todavía puede mejorarse aún más adoptando ideas que se han dejado previamente cómo la creación de una app, consejos de diseño para la presentación final ... y también sería conveniente hacer un estudio de accesibilidad para acceder a ese pública ya no tan minoritario que probablemente tenga serios problemas al usar el sitio web.</p>
