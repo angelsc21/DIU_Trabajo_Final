@@ -2,7 +2,7 @@
 
 <p align="justify"><strong>Autor:</strong> Ángel Solano Corral</p>
 <p align="justify"><strong>Caso de estudio:</strong> Yuzin Club Cultural</p>
-<p align="justify"><strong>Proyecto Rediseño:</strong> Granevent</p>
+<p align="justify"><strong>Proyecto Rediseño:</strong> El sitio web Granevent tiene el objetivo de facilitar la actividad cultural en las ciudades de Sevilla y Granada. Puedes desgarte una revista con todos los eventos del mes, publicitar tu propio evento, reservar entradas, buscar eventos con todo tipo de facilidades, echar un vistazo a artículos de opinión sobre cultura, turismo, etc. </p>
 <p align="justify"><strong>Descripción:</strong> </p>
 
 ---
@@ -121,8 +121,12 @@ A continuación muestro una serie de wireframes en los que se pueden ver algunas
 
 ## Paso 3. Guidelines y Patrones de Diseño
 
-<p align="center">Una vez expuesto los bocetos, se pasaría a realizar un diseño más profesional enfocado al resultado final. Para un correcto procedimiento se deberían de elegir previamente los Guidelines y Patrones de Diseño.</p> 
+<p align="justify">Una vez expuesto los bocetos, se pasaría a realizar un diseño más profesional enfocado al resultado final. Para un correcto procedimiento se deberían de elegir previamente los Guidelines y Patrones de Diseño.</p> 
 
-<p align="center">Sería conveniente utilizar 2 variantes de tipografías, una para los títulos (MontSerrat ha sido testada en mi práctica y encajaba bastante bien) y otra para el texto básico (NotoSans sería una buena opción).</p> 
+<p align="justify">Sería conveniente utilizar 2 variantes de tipografías, una para los títulos (MontSerrat ha sido testada en mi práctica y encajaba bastante bien) y otra para el texto básico (NotoSans sería una buena opción).</p> 
 
-<p align="center">La creación de un logo acorde con el contenido de la página y el uso de una paleta de colores más elaborada (previamente testada con reviews de accesibilidad) atraería a más clientes.</p>
+<p align="justify">La creación de un logo acorde con el contenido de la página y el uso de una paleta de colores más elaborada (previamente testada con reviews de accesibilidad) atraería a más clientes.</p>
+
+Otro punto a favor para la empresa sería tener una aplicación móvil además del sitio web para dotar de una mayor versatilidad a los recursos ofrecidos.
+
+## Conclusiones
