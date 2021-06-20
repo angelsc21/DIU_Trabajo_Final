@@ -110,3 +110,7 @@ A continuación muestro una serie de wireframes en los que se pueden ver algunas
 * Homepage
 
 ![Homepage](homepage.jpg)
+
+* Buscar Evento
+
+![buscar](buscar.jpg)
