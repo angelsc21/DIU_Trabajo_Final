@@ -2,8 +2,8 @@
 
 <p align="justify"><strong>Autor:</strong> Ángel Solano Corral</p>
 <p align="justify"><strong>Caso de estudio:</strong> Yuzin Club Cultural</p>
-<p align="justify"><strong>Proyecto Rediseño:</strong> El sitio web Granevent tiene el objetivo de facilitar la actividad cultural en las ciudades de Sevilla y Granada. Puedes desgarte una revista con todos los eventos del mes, publicitar tu propio evento, reservar entradas, buscar eventos con todo tipo de facilidades, echar un vistazo a artículos de opinión sobre cultura, turismo, etc. </p>
-<p align="justify"><strong>Descripción:</strong> </p>
+<p align="justify"><strong>Proyecto Rediseño:</strong> Granevent </p>
+<p align="justify"><strong>Descripción: </strong>El sitio web Granevent tiene el objetivo de facilitar la actividad cultural en las ciudades de Sevilla y Granada. Puedes descargarte una revista con todos los eventos del mes, publicitar tu propio evento, reservar entradas, buscar eventos con todo tipo de facilidades, echar un vistazo a artículos de opinión sobre cultura, turismo, etc. </p>
 
 ---
 
@@ -20,11 +20,11 @@ Analizaremos el sitio web para sacar sus puntos fuertes y debilidades con el obj
 
 ### 1.a Competitive Analysis
 
-Comparo Yuzin Club Cultural con otros sitios web de la misma temática para ver qué tienen sus competidores de más y de menos. Los sitios con los que he comparado el sitio web son:
+Comparo Yuzin Club Cultural con otros sitios web de la misma temática para ver qué tienen sus competidores de más y de menos. Los páginas que he usado son:
 
-Turgranada: Ofrece una agenda de actividades culturales en toda la provincia de Granada entre otras funcionalidades (planear tu viaje, búsqueda de destinos ...)
+<a href="https://www.turgranada.es/">Turgranada</a>: Ofrece una agenda de actividades culturales en toda la provincia de Granada entre otras funcionalidades (planear tu viaje, búsqueda de destinos ...)
 
-Sevillaguia: Se centra en actividades culturales en la ciudad de Sevilla y puedes acceder a un gran número de ellas, publicitar la tuya propia, el servicio de venta de tickets está deshabilitado temporalmente ...
+<a href="https://www.sevillaguia.com/">Sevillaguia</a>: Se centra en actividades culturales en la ciudad de Sevilla y puedes acceder a un gran número de ellas, publicitar la tuya propia, el servicio de venta de tickets está deshabilitado temporalmente ...
 
 Puedes ver el análisis competitivo <a href="https://github.com/angelsc21/DIU_Trabajo_Final/blob/main/CompetitiveAnalisis.pdf">aquí</a>.
 
