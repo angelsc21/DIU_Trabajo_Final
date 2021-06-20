@@ -114,3 +114,7 @@ A continuación muestro una serie de wireframes en los que se pueden ver algunas
 * Buscar Evento
 
 ![buscar](buscar.jpg)
+
+* Evento
+
+![Evento](evento.jpg)
