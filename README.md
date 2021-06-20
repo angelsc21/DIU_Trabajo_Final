@@ -118,3 +118,11 @@ A continuación muestro una serie de wireframes en los que se pueden ver algunas
 * Evento
 
 ![Evento](evento.jpg)
+
+## Paso 3. Guidelines y Patrones de Diseño
+
+<p align="center">Una vez expuesto los bocetos, se pasaría a realizar un diseño más profesional enfocado al resultado final. Para un correcto procedimiento se deberían de elegir previamente los Guidelines y Patrones de Diseño.</p> 
+
+<p align="center">Sería conveniente utilizar 2 variantes de tipografías, una para los títulos (MontSerrat ha sido testada en mi práctica y encajaba bastante bien) y otra para el texto básico (NotoSans sería una buena opción).</p> 
+
+<p align="center">La creación de un logo acorde con el contenido de la página y el uso de una paleta de colores más elaborada (previamente testada con reviews de accesibilidad) atraería a más clientes.</p>
