@@ -78,4 +78,27 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 
 ### 2.b Sitemap + Labelling
 
-![persona](sitemap.png)
+* Sitemap 
+
+![persona](Sitemap.png)
+
+* Labelling 
+
+| <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
+| ------------- | -------| 
+| Página Principal |   | 
+| Agenda Cultural |   | 
+| Buscar Evento | Información sobre la empresa detrás de la aplicación  | 
+| Evento | Identificación del usuario en la plataforma  | 
+| Reserva Evento | Apartado de acceso único a usuarios registrados en el que podrán gestionar sus grupos, actividades ...   | 
+| Espacios Culturales | Panel que clasifica los grupos del usuario y la opción de crear uno | 
+| Espacio Cultural | Grupos a los que se ha unido el usuario | 
+| Espacio de Opinión | Grupos que ha creado el usuario | 
+| Opinión | Interfaz de creación de grupo | 
+| Sube Tu Evento | Panel que clasifica las actividades del usuario y la opción de crear una | 
+| Descargar Revista | Actividades reservadas por el usuario | 
+| Asóciate | Actividades creadas por el usuario  | 
+| Contacta | Interfaz de creación de actividad  | 
+| Preguntas frecuentes | Lista de amigos del usuario | 
+| Asistente Online | Perfil de usuario con información personal  | 
+| Acceder | Chat del usuario en el que se muestran las conversaciones  | 
