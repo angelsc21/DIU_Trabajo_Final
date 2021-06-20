@@ -86,19 +86,19 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 
 | <p align="center"><strong>Label</strong></p> |  <p align="center"><strong>Scope Note</strong></p>|
 | ------------- | -------| 
-| Página Principal |   | 
-| Agenda Cultural |   | 
-| Buscar Evento | Información sobre la empresa detrás de la aplicación  | 
-| Evento | Identificación del usuario en la plataforma  | 
-| Reserva Evento | Apartado de acceso único a usuarios registrados en el que podrán gestionar sus grupos, actividades ...   | 
-| Espacios Culturales | Panel que clasifica los grupos del usuario y la opción de crear uno | 
-| Espacio Cultural | Grupos a los que se ha unido el usuario | 
-| Espacio de Opinión | Grupos que ha creado el usuario | 
-| Opinión | Interfaz de creación de grupo | 
-| Sube Tu Evento | Panel que clasifica las actividades del usuario y la opción de crear una | 
-| Descargar Revista | Actividades reservadas por el usuario | 
-| Asóciate | Actividades creadas por el usuario  | 
-| Contacta | Interfaz de creación de actividad  | 
-| Preguntas frecuentes | Lista de amigos del usuario | 
-| Asistente Online | Perfil de usuario con información personal  | 
-| Acceder | Chat del usuario en el que se muestran las conversaciones  | 
+| Página Principal | Página de inicio con la que se encuentra el usuario al entrar al sitio web | 
+| Agenda Cultural | Lista de eventos ordenados cronológicamente | 
+| Buscar Evento | Búsqueda personalizada de los eventos culturales | 
+| Evento | Información de un evento en concreto  | 
+| Reserva Evento | Formulario de reserva de un evento concreto   | 
+| Espacios Culturales | Listado de espacios culturales | 
+| Espacio Cultural | Espacio cultural en concreto | 
+| Espacio de Opinión | Apartado de artículos de opinión sobre cultura, turismo...  | 
+| Opinión | Descripción de un artículo de opinión en concreto | 
+| Sube Tu Evento | Formulario para publicitar tu evento en la página | 
+| Descargar Revista | Apartado de descarga de la revista física (se puede elegir la edición) | 
+| Asóciate | Formulario de inscripción a la membresía Yuzin | 
+| Contacta | Zona de contacto y ayuda  | 
+| Preguntas frecuentes | Listado de preguntas respondidas que los usuarios suelen hacer | 
+| Asistente Online | Asistente hecho con intelegencia artificial que interactúa contigo para ayudarte a resolver tus problemas  | 
+| Acceder | Iniciar sesión en la página con tus datos  | 
