@@ -107,3 +107,6 @@ Utilizo esta herramienta para tener una visión global de las partes más intere
 
 A continuación muestro una serie de wireframes en los que se pueden ver algunas zonas del rediseño de la página.
 
+* Homepage
+
+![Homepage](homepage.jpg)
